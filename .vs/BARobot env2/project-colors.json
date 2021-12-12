@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a423a609-3ccb-d0a5-4449-ff34cbf7342d": {
+      "ProjectGuid": "a423a609-3ccb-d0a5-4449-ff34cbf7342d",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    },
+    "ca408289-a8bb-4927-71da-96771ec1925c": {
+      "ProjectGuid": "ca408289-a8bb-4927-71da-96771ec1925c",
+      "DisplayName": "Microsoft.MixedReality.Toolkit.SDK",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
